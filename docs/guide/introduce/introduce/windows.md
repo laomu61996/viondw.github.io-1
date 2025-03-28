@@ -15,7 +15,7 @@
 
 - biliup支持国外平台录制，但windows终端默认不走代理，你可能要在代理软件中开启`tun`或`VPN`模式来运行。
 - 你也可以单独配置windows终端代理环境，参考[Windows如何设置终端代理？](https://blog.csdn.net/zhu6201976/article/details/132763545)
-
+---
 #### 参数运行
 
 - biliup虽然编译了exe一键运行，但仍支持参数启动，以下是一个使用参数启动的例子
