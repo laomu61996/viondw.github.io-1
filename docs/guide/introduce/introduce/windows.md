@@ -3,14 +3,14 @@
 ### pip安装
 
 - pip安装方式与Linux相同，请根据文档侧边栏的Linux安装页来进行安装。
-
+---
 ### exe运行
 
 - biliup默认编译了基于windows可直接运行的exe文件，该方式不需要安装环境即可运行。
 
 - 1.首先，打开biliup项目release页面：[点我快速跳转](https://github.com/biliup/biliup/releases)
 - 2.在Assets里下载最新版的biliup.exe文件，放在一个文件夹内双击运行`exe文件在哪，录播文件就下载在哪`
-
+---
 #### 代理配置
 
 - biliup支持国外平台录制，但windows终端默认不走代理，你可能要在代理软件中开启`tun`或`VPN`模式来运行。
